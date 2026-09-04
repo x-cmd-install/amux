@@ -7,7 +7,7 @@ about:
   head: f94362f
   archived: false
   latestVersion: v0.0.20
-  collectedAt: 2026-09-04T19:45:56Z
+  collectedAt: 2026-09-04T20:53:06Z
 timeline:
   created: 2025-12-31
   lastCommit: 2026-08-27
@@ -83,5 +83,43 @@ total:
   openIssue: 2
   commit: 869
 ---
+path: /home/runner/.x-repo/github.com/andyrewlee/amux
+collectedAt: 2026-09-04T20:53:07Z
+loc:
+  Go:
+    code: 138898
+    comments: 14270
+    blanks: 18077
+    files: 871
+  Json:
+    code: 4330
+    comments: 0
+    blanks: 0
+    files: 3
+  Python:
+    code: 799
+    comments: 52
+    blanks: 42
+    files: 2
+  Sh:
+    code: 239
+    comments: 45
+    blanks: 53
+    files: 4
+  Makefile:
+    code: 233
+    comments: 71
+    blanks: 39
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2092
+    blanks: 504
+    files: 15
+total:
+  code: 144556
+  comments: 16530
+  blanks: 18715
+  files: 896
 ---
 
