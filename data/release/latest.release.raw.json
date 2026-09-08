@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 4373518,
       "digest": "sha256:3b7dd240d77e0bff0cc3a49a517246cae4771e721b6ffc0068dd1a7845845d35",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2026-07-17T01:24:13Z",
       "updated_at": "2026-07-17T01:24:14Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 390,
       "digest": "sha256:46cccdd6323287ac032c9133e460be690bac0ae01d42e05dcf80edb16569b934",
-      "download_count": 39,
+      "download_count": 40,
       "created_at": "2026-07-17T01:24:14Z",
       "updated_at": "2026-07-17T01:24:14Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.20/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 301,
       "digest": "sha256:712a39b51c58256834e93c62ba238d4c77182e90cf4bdd0fef45fd88b6825bcb",
-      "download_count": 40,
+      "download_count": 41,
       "created_at": "2026-07-17T01:24:14Z",
       "updated_at": "2026-07-17T01:24:14Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.20/checksums.txt.minisig"
