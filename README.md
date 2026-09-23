@@ -4,7 +4,7 @@
 
 TUI for easily running parallel coding agents
 
-[![x-cmd/install — amux Code Quality Monitoring Repo Card](https://repo.x-cmd.io/amux.svg)](https://x-cmd.com/install/amux)
+[![x-cmd/install — amux Code Quality Monitoring Repo Card](https://x-cmd.com/repo-card/amux.svg)](https://x-cmd.com/install/amux)
 
 ## Install
 
@@ -47,12 +47,12 @@ Total: **144,637** lines of code across **881** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-23 | 0 | 2 | 1 | 0 | 0 | 3 |
-| last60d | 2026-07-24 | 0 | 18 | 1 | 0 | 0 | 14 |
-| 90d | 2026-06-24 | 1 | 82 | 4 | 0 | 1 | 188 |
-| last180d | 2026-03-26 | 3 | 422 | 4 | 0 | 2 | 561 |
-| 360d | 2025-09-27 | 20 | 608 | 4 | 1 | 2 | 864 |
-| last720d | 2024-10-02 | 20 | 608 | 4 | 1 | 2 | 872 |
+| 30d | 2026-08-24 | 0 | 1 | 1 | 0 | 0 | 3 |
+| last60d | 2026-07-25 | 0 | 18 | 1 | 0 | 0 | 14 |
+| 90d | 2026-06-25 | 1 | 82 | 4 | 0 | 1 | 188 |
+| last180d | 2026-03-27 | 3 | 422 | 4 | 0 | 2 | 561 |
+| 360d | 2025-09-28 | 20 | 608 | 4 | 1 | 2 | 864 |
+| last720d | 2024-10-03 | 20 | 608 | 4 | 1 | 2 | 872 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260922.yml` · 2026-09-22T06:47:18Z._
+_Snapshot: `data/card/260923.yml` · 2026-09-23T06:54:11Z._
