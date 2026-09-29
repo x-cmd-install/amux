@@ -1,0 +1,128 @@
+about:
+  description: "TUI for easily running parallel coding agents"
+  license: MIT
+  homepage: 
+  head: b949fef
+  archived: false
+  latestVersion: "v0.0.20"
+  latestRelease: "v0.0.20"
+  latestPrerelease: ""
+  collectedAt: 2026-09-29T07:09:24Z
+timeline:
+  created: 2025-12-31
+  lastCommit: 2026-09-28
+  lastVersion: 2026-07-17
+  lastRelease: 2026-07-17
+  lastPrerelease: 
+popularity:
+  star: 162
+  watcher: 2
+  fork: 3
+  release: 20
+  contributor: 2
+  pullRequest: 669
+  issue: 3
+language:
+  Go: 6635137
+  Python: 68770
+  Makefile: 24742
+  Shell: 18179
+totalBytes: 6746828
+recent:
+  last30d:
+    since: 2026-08-30
+    release: 0
+    mergedPR: 8
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 71
+  last60d:
+    since: 2026-07-31
+    release: 0
+    mergedPR: 15
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 81
+  last90d:
+    since: 2026-07-01
+    release: 1
+    mergedPR: 89
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 190
+  last180d:
+    since: 2026-04-02
+    release: 3
+    mergedPR: 426
+    openPR: 2
+    closedIssue: 0
+    openIssue: 2
+    commit: 627
+  last360d:
+    since: 2025-10-04
+    release: 20
+    mergedPR: 615
+    openPR: 2
+    closedIssue: 1
+    openIssue: 2
+    commit: 932
+  last720d:
+    since: 2024-10-09
+    release: 20
+    mergedPR: 615
+    openPR: 2
+    closedIssue: 1
+    openIssue: 2
+    commit: 948
+total:
+  release: 20
+  mergedPR: 615
+  openPR: 2
+  closedIssue: 1
+  openIssue: 2
+  commit: 948
+---
+path: /home/runner/.x-repo/github.com/andyrewlee/amux
+collectedAt: 2026-09-29T07:09:25Z
+loc:
+  Go:
+    code: 169586
+    comments: 20800
+    blanks: 21493
+    files: 1094
+  Json:
+    code: 4330
+    comments: 0
+    blanks: 0
+    files: 3
+  Python:
+    code: 817
+    comments: 53
+    blanks: 44
+    files: 2
+  Makefile:
+    code: 311
+    comments: 119
+    blanks: 45
+    files: 1
+  Sh:
+    code: 272
+    comments: 81
+    blanks: 61
+    files: 7
+  Markdown:
+    code: 0
+    comments: 2778
+    blanks: 611
+    files: 16
+total:
+  code: 175388
+  comments: 23831
+  blanks: 22254
+  files: 1123
+---
+
+---
