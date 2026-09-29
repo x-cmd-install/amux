@@ -14,15 +14,15 @@ x install amux
 
 ## Code insight
 
-Total: **162,616** lines of code across **1034** files in the top 5 languages.
+Total: **175,316** lines of code across **1107** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 156,888 | 18,107 | 20,118 | 1021 |
+| Go | 169,586 | 20,800 | 21,493 | 1094 |
 | Json | 4,330 | 0 | 0 | 3 |
 | Python | 817 | 53 | 44 | 2 |
-| Makefile | 321 | 111 | 44 | 1 |
-| Sh | 260 | 82 | 60 | 7 |
+| Makefile | 311 | 119 | 45 | 1 |
+| Sh | 272 | 81 | 61 | 7 |
 
 ## Source
 
@@ -32,7 +32,7 @@ Total: **162,616** lines of code across **1034** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.20` (2026-07-17)
-- **Last commit**: 2026-09-24
+- **Last commit**: 2026-09-28
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **162,616** lines of code across **1034** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 615 · **Open PRs**: 29 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 886
+- **Releases**: 20 · **Merged PRs**: 615 · **Open PRs**: 2 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 948
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-29 | 0 | 8 | 27 | 0 | 0 | 10 |
-| last60d | 2026-07-30 | 0 | 15 | 27 | 0 | 0 | 20 |
-| 90d | 2026-06-30 | 1 | 89 | 29 | 0 | 1 | 129 |
-| last180d | 2026-04-01 | 3 | 426 | 29 | 0 | 2 | 566 |
-| 360d | 2025-10-03 | 20 | 615 | 29 | 1 | 2 | 871 |
-| last720d | 2024-10-08 | 20 | 615 | 29 | 1 | 2 | 886 |
+| 30d | 2026-08-30 | 0 | 8 | 0 | 0 | 0 | 71 |
+| last60d | 2026-07-31 | 0 | 15 | 0 | 0 | 0 | 81 |
+| 90d | 2026-07-01 | 1 | 89 | 2 | 0 | 1 | 190 |
+| last180d | 2026-04-02 | 3 | 426 | 2 | 0 | 2 | 627 |
+| 360d | 2025-10-04 | 20 | 615 | 2 | 1 | 2 | 932 |
+| last720d | 2024-10-09 | 20 | 615 | 2 | 1 | 2 | 948 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260928.yml` · 2026-09-28T06:50:03Z._
+_Snapshot: `data/card/260929.yml` · 2026-09-29T07:09:31Z._
