@@ -1,0 +1,134 @@
+about:
+  description: "TUI for easily running parallel coding agents"
+  license: MIT
+  homepage: 
+  head: eeb03e7
+  archived: false
+  latestVersion: "v0.0.20"
+  latestRelease: "v0.0.20"
+  latestPrerelease: ""
+  collectedAt: 2026-10-01T07:22:06Z
+timeline:
+  created: 2025-12-31
+  lastCommit: 2026-10-01
+  lastVersion: 2026-07-17
+  lastRelease: 2026-07-17
+  lastPrerelease: 
+popularity:
+  star: 162
+  watcher: 2
+  fork: 3
+  release: 20
+  contributor: 2
+  pullRequest: 679
+  issue: 3
+language:
+  Go: 6705275
+  Python: 68770
+  Makefile: 28570
+  Shell: 24980
+  Dockerfile: 2590
+totalBytes: 6830185
+recent:
+  last30d:
+    since: 2026-09-01
+    release: 0
+    mergedPR: 18
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 83
+  last60d:
+    since: 2026-08-02
+    release: 0
+    mergedPR: 25
+    openPR: 0
+    closedIssue: 0
+    openIssue: 0
+    commit: 93
+  last90d:
+    since: 2026-07-03
+    release: 1
+    mergedPR: 98
+    openPR: 2
+    closedIssue: 0
+    openIssue: 1
+    commit: 202
+  last180d:
+    since: 2026-04-04
+    release: 3
+    mergedPR: 436
+    openPR: 2
+    closedIssue: 0
+    openIssue: 2
+    commit: 639
+  last360d:
+    since: 2025-10-06
+    release: 20
+    mergedPR: 625
+    openPR: 2
+    closedIssue: 1
+    openIssue: 2
+    commit: 944
+  last720d:
+    since: 2024-10-11
+    release: 20
+    mergedPR: 625
+    openPR: 2
+    closedIssue: 1
+    openIssue: 2
+    commit: 960
+total:
+  release: 20
+  mergedPR: 625
+  openPR: 2
+  closedIssue: 1
+  openIssue: 2
+  commit: 960
+---
+path: /home/runner/.x-repo/github.com/andyrewlee/amux
+collectedAt: 2026-10-01T07:22:09Z
+loc:
+  Go:
+    code: 171075
+    comments: 21100
+    blanks: 21616
+    files: 1101
+  Json:
+    code: 4330
+    comments: 0
+    blanks: 0
+    files: 3
+  Python:
+    code: 817
+    comments: 53
+    blanks: 44
+    files: 2
+  Sh:
+    code: 366
+    comments: 122
+    blanks: 78
+    files: 9
+  Makefile:
+    code: 348
+    comments: 138
+    blanks: 50
+    files: 1
+  Dockerfile:
+    code: 41
+    comments: 16
+    blanks: 6
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2872
+    blanks: 626
+    files: 16
+total:
+  code: 177051
+  comments: 24301
+  blanks: 22420
+  files: 1133
+---
+
+---
