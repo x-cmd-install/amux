@@ -14,11 +14,11 @@ x install amux
 
 ## Code insight
 
-Total: **191,403** lines of code across **1221** files in the top 5 languages.
+Total: **191,509** lines of code across **1222** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 187,539 | 25,074 | 23,361 | 1206 |
+| Go | 187,645 | 25,089 | 23,373 | 1207 |
 | Json | 2,168 | 0 | 0 | 2 |
 | Python | 817 | 53 | 44 | 2 |
 | Sh | 441 | 135 | 88 | 10 |
@@ -41,18 +41,18 @@ Total: **191,403** lines of code across **1221** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 712 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1047
+- **Releases**: 20 · **Merged PRs**: 713 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1048
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-10 | 0 | 105 | 1 | 0 | 0 | 170 |
-| last60d | 2026-08-11 | 0 | 110 | 1 | 0 | 0 | 177 |
-| 90d | 2026-07-12 | 1 | 140 | 3 | 0 | 1 | 198 |
-| last180d | 2026-04-13 | 2 | 521 | 3 | 0 | 2 | 724 |
-| 360d | 2025-10-15 | 20 | 712 | 3 | 1 | 2 | 1031 |
-| last720d | 2024-10-20 | 20 | 712 | 3 | 1 | 2 | 1047 |
+| 30d | 2026-09-11 | 0 | 106 | 1 | 0 | 0 | 170 |
+| last60d | 2026-08-12 | 0 | 111 | 1 | 0 | 0 | 176 |
+| 90d | 2026-07-13 | 1 | 124 | 3 | 0 | 1 | 192 |
+| last180d | 2026-04-14 | 2 | 522 | 3 | 0 | 2 | 725 |
+| 360d | 2025-10-16 | 20 | 713 | 3 | 1 | 2 | 1032 |
+| last720d | 2024-10-21 | 20 | 713 | 3 | 1 | 2 | 1048 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261010.yml` · 2026-10-10T07:05:00Z._
+_Snapshot: `data/card/261011.yml` · 2026-10-11T07:00:55Z._
