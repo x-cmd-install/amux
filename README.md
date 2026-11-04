@@ -14,14 +14,14 @@ x install amux
 
 ## Code insight
 
-Total: **200,635** lines of code across **1291** files in the top 5 languages.
+Total: **201,185** lines of code across **1297** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 196,669 | 27,766 | 24,358 | 1275 |
+| Go | 197,217 | 28,023 | 24,429 | 1281 |
 | Json | 2,168 | 0 | 0 | 2 |
 | Python | 817 | 53 | 44 | 2 |
-| Sh | 516 | 157 | 101 | 11 |
+| Sh | 518 | 157 | 101 | 11 |
 | Makefile | 424 | 170 | 53 | 1 |
 
 ## Source
@@ -31,8 +31,8 @@ Total: **200,635** lines of code across **1291** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.0.20` (2026-07-17)
-- **Last commit**: 2026-10-18
+- **Latest**: `v0.0.21` (2026-11-03)
+- **Last commit**: 2026-11-03
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,29 +41,29 @@ Total: **200,635** lines of code across **1291** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 20 · **Merged PRs**: 779 · **Open PRs**: 2 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1114
+- **Releases**: 21 · **Merged PRs**: 779 · **Open PRs**: 2 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1119
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 112 | 0 | 0 | 0 | 68 |
-| last60d | 2026-09-04 | 0 | 172 | 0 | 0 | 0 | 237 |
-| 90d | 2026-08-05 | 0 | 178 | 0 | 0 | 0 | 246 |
-| last180d | 2026-05-07 | 2 | 588 | 2 | 0 | 2 | 789 |
-| 360d | 2025-11-08 | 20 | 779 | 2 | 1 | 2 | 1098 |
-| last720d | 2024-11-13 | 20 | 779 | 2 | 1 | 2 | 1114 |
+| 30d | 2026-10-05 | 1 | 90 | 0 | 0 | 0 | 73 |
+| last60d | 2026-09-05 | 1 | 172 | 0 | 0 | 0 | 242 |
+| 90d | 2026-08-06 | 1 | 178 | 0 | 0 | 0 | 251 |
+| last180d | 2026-05-08 | 3 | 588 | 2 | 0 | 2 | 794 |
+| 360d | 2025-11-09 | 21 | 779 | 2 | 1 | 2 | 1103 |
+| last720d | 2024-11-14 | 21 | 779 | 2 | 1 | 2 | 1119 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [amux_0.0.20_darwin_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_darwin_amd64.tar.gz) | 4.6 MiB | `native/darwin/x64` |
-| [amux_0.0.20_darwin_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_darwin_arm64.tar.gz) | 4.3 MiB | `native/darwin/arm64` |
-| [amux_0.0.20_linux_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_linux_amd64.tar.gz) | 4.6 MiB | `native/linux/x64` |
-| [amux_0.0.20_linux_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [checksums.txt](https://github.com/andyrewlee/amux/releases/download/v0.0.20/checksums.txt) | 390 B | `other` |
-| [checksums.txt.minisig](https://github.com/andyrewlee/amux/releases/download/v0.0.20/checksums.txt.minisig) | 301 B | `other` |
+| [amux_0.0.21_darwin_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_darwin_amd64.tar.gz) | 5.1 MiB | `native/darwin/x64` |
+| [amux_0.0.21_darwin_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_darwin_arm64.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
+| [amux_0.0.21_linux_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [amux_0.0.21_linux_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/andyrewlee/amux/releases/download/v0.0.21/checksums.txt) | 390 B | `other` |
+| [checksums.txt.minisig](https://github.com/andyrewlee/amux/releases/download/v0.0.21/checksums.txt.minisig) | 301 B | `other` |
 
 ## Improve this data
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261103.yml` · 2026-11-03T08:25:10Z._
+_Snapshot: `data/card/261104.yml` · 2026-11-04T07:55:55Z._

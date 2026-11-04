@@ -14,14 +14,14 @@ x install amux
 
 ## 代码洞察
 
-合计: **200,635** 行代码（覆盖前 5 种语言、共 **1291** 个文件）。
+合计: **201,185** 行代码（覆盖前 5 种语言、共 **1297** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
-| Go | 196,669 | 27,766 | 24,358 | 1275 |
+| Go | 197,217 | 28,023 | 24,429 | 1281 |
 | Json | 2,168 | 0 | 0 | 2 |
 | Python | 817 | 53 | 44 | 2 |
-| Sh | 516 | 157 | 101 | 11 |
+| Sh | 518 | 157 | 101 | 11 |
 | Makefile | 424 | 170 | 53 | 1 |
 
 ## 源代码
@@ -31,8 +31,8 @@ x install amux
 
 ## 发布
 
-- **最新版本**: `v0.0.20` (2026-07-17)
-- **最近提交**: 2026-10-18
+- **最新版本**: `v0.0.21` (2026-11-03)
+- **最近提交**: 2026-11-03
 - **Release 含资产**: 6 个
 
 ## 流行度
@@ -41,29 +41,29 @@ x install amux
 
 ## 累计统计
 
-- **发布数**: 20 · **已合并 PR**: 779 · **开放 PR**: 2 · **已关闭 issue**: 1 · **开放 issue**: 2 · **提交数**: 1114
+- **发布数**: 21 · **已合并 PR**: 779 · **开放 PR**: 2 · **已关闭 issue**: 1 · **开放 issue**: 2 · **提交数**: 1119
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-04 | 0 | 112 | 0 | 0 | 0 | 68 |
-| last60d | 2026-09-04 | 0 | 172 | 0 | 0 | 0 | 237 |
-| 90d | 2026-08-05 | 0 | 178 | 0 | 0 | 0 | 246 |
-| last180d | 2026-05-07 | 2 | 588 | 2 | 0 | 2 | 789 |
-| 360d | 2025-11-08 | 20 | 779 | 2 | 1 | 2 | 1098 |
-| last720d | 2024-11-13 | 20 | 779 | 2 | 1 | 2 | 1114 |
+| 30d | 2026-10-05 | 1 | 90 | 0 | 0 | 0 | 73 |
+| last60d | 2026-09-05 | 1 | 172 | 0 | 0 | 0 | 242 |
+| 90d | 2026-08-06 | 1 | 178 | 0 | 0 | 0 | 251 |
+| last180d | 2026-05-08 | 3 | 588 | 2 | 0 | 2 | 794 |
+| 360d | 2025-11-09 | 21 | 779 | 2 | 1 | 2 | 1103 |
+| last720d | 2024-11-14 | 21 | 779 | 2 | 1 | 2 | 1119 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [amux_0.0.20_darwin_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_darwin_amd64.tar.gz) | 4.6 MiB | `native/darwin/x64` |
-| [amux_0.0.20_darwin_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_darwin_arm64.tar.gz) | 4.3 MiB | `native/darwin/arm64` |
-| [amux_0.0.20_linux_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_linux_amd64.tar.gz) | 4.6 MiB | `native/linux/x64` |
-| [amux_0.0.20_linux_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.20/amux_0.0.20_linux_arm64.tar.gz) | 4.2 MiB | `native/linux/arm64` |
-| [checksums.txt](https://github.com/andyrewlee/amux/releases/download/v0.0.20/checksums.txt) | 390 B | `other` |
-| [checksums.txt.minisig](https://github.com/andyrewlee/amux/releases/download/v0.0.20/checksums.txt.minisig) | 301 B | `other` |
+| [amux_0.0.21_darwin_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_darwin_amd64.tar.gz) | 5.1 MiB | `native/darwin/x64` |
+| [amux_0.0.21_darwin_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_darwin_arm64.tar.gz) | 4.8 MiB | `native/darwin/arm64` |
+| [amux_0.0.21_linux_amd64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_linux_amd64.tar.gz) | 5.1 MiB | `native/linux/x64` |
+| [amux_0.0.21_linux_arm64.tar.gz](https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_linux_arm64.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [checksums.txt](https://github.com/andyrewlee/amux/releases/download/v0.0.21/checksums.txt) | 390 B | `other` |
+| [checksums.txt.minisig](https://github.com/andyrewlee/amux/releases/download/v0.0.21/checksums.txt.minisig) | 301 B | `other` |
 
 ## 改进这些数据
 
@@ -74,4 +74,4 @@ amux 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 索
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/261103.yml` · 2026-11-03T08:25:10Z._
+_数据快照: `data/card/261104.yml` · 2026-11-04T07:55:56Z._
