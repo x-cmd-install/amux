@@ -14,11 +14,11 @@ x install amux
 
 ## Code insight
 
-Total: **201,185** lines of code across **1297** files in the top 5 languages.
+Total: **215,067** lines of code across **1394** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 197,217 | 28,023 | 24,429 | 1281 |
+| Go | 211,099 | 32,446 | 25,805 | 1378 |
 | Json | 2,168 | 0 | 0 | 2 |
 | Python | 817 | 53 | 44 | 2 |
 | Sh | 518 | 157 | 101 | 11 |
@@ -32,7 +32,7 @@ Total: **201,185** lines of code across **1297** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.0.21` (2026-11-03)
-- **Last commit**: 2026-11-03
+- **Last commit**: 2026-11-05
 - **Assets in release**: 6
 
 ## Popularity
@@ -41,18 +41,18 @@ Total: **201,185** lines of code across **1297** files in the top 5 languages.
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 779 · **Open PRs**: 2 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1119
+- **Releases**: 21 · **Merged PRs**: 779 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1124
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-05 | 1 | 90 | 0 | 0 | 0 | 73 |
-| last60d | 2026-09-05 | 1 | 172 | 0 | 0 | 0 | 242 |
-| 90d | 2026-08-06 | 1 | 178 | 0 | 0 | 0 | 251 |
-| last180d | 2026-05-08 | 3 | 588 | 2 | 0 | 2 | 794 |
-| 360d | 2025-11-09 | 21 | 779 | 2 | 1 | 2 | 1103 |
-| last720d | 2024-11-14 | 21 | 779 | 2 | 1 | 2 | 1119 |
+| 30d | 2026-10-06 | 1 | 75 | 1 | 0 | 0 | 78 |
+| last60d | 2026-09-06 | 1 | 172 | 1 | 0 | 0 | 247 |
+| 90d | 2026-08-07 | 1 | 178 | 1 | 0 | 0 | 256 |
+| last180d | 2026-05-09 | 3 | 588 | 3 | 0 | 2 | 799 |
+| 360d | 2025-11-10 | 21 | 779 | 3 | 1 | 2 | 1108 |
+| last720d | 2024-11-15 | 21 | 779 | 3 | 1 | 2 | 1124 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261104.yml` · 2026-11-04T07:55:55Z._
+_Snapshot: `data/card/261105.yml` · 2026-11-05T08:14:10Z._
