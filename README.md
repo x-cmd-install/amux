@@ -14,11 +14,11 @@ x install amux
 
 ## Code insight
 
-Total: **215,067** lines of code across **1394** files in the top 5 languages.
+Total: **215,533** lines of code across **1398** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 211,099 | 32,446 | 25,805 | 1378 |
+| Go | 211,565 | 32,644 | 25,880 | 1382 |
 | Json | 2,168 | 0 | 0 | 2 |
 | Python | 817 | 53 | 44 | 2 |
 | Sh | 518 | 157 | 101 | 11 |
@@ -37,22 +37,22 @@ Total: **215,067** lines of code across **1394** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 166 · **Forks**: 4 · **Open issues**: 3 · **Contributors**: 2
+- **Stars**: 166 · **Forks**: 4 · **Open issues**: 4 · **Contributors**: 2
 
 ## Totals (cumulative)
 
-- **Releases**: 21 · **Merged PRs**: 779 · **Open PRs**: 3 · **Closed issues**: 1 · **Open issues**: 2 · **Commits**: 1124
+- **Releases**: 21 · **Merged PRs**: 779 · **Open PRs**: 3 · **Closed issues**: 2 · **Open issues**: 2 · **Commits**: 1126
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-06 | 1 | 75 | 1 | 0 | 0 | 78 |
-| last60d | 2026-09-06 | 1 | 172 | 1 | 0 | 0 | 247 |
-| 90d | 2026-08-07 | 1 | 178 | 1 | 0 | 0 | 256 |
-| last180d | 2026-05-09 | 3 | 588 | 3 | 0 | 2 | 799 |
-| 360d | 2025-11-10 | 21 | 779 | 3 | 1 | 2 | 1108 |
-| last720d | 2024-11-15 | 21 | 779 | 3 | 1 | 2 | 1124 |
+| 30d | 2026-10-07 | 1 | 75 | 1 | 1 | 0 | 80 |
+| last60d | 2026-09-07 | 1 | 172 | 1 | 1 | 0 | 249 |
+| 90d | 2026-08-08 | 1 | 177 | 1 | 1 | 0 | 258 |
+| last180d | 2026-05-10 | 3 | 588 | 3 | 1 | 2 | 801 |
+| 360d | 2025-11-11 | 21 | 779 | 3 | 2 | 2 | 1110 |
+| last720d | 2024-11-16 | 21 | 779 | 3 | 2 | 2 | 1126 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261105.yml` · 2026-11-05T08:14:10Z._
+_Snapshot: `data/card/261106.yml` · 2026-11-06T08:20:05Z._
