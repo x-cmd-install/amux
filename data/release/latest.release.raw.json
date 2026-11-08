@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5012213,
       "digest": "sha256:fb332922eb24325da3e329c9bd850705844575a099c71e7fdacfa2cf97773727",
-      "download_count": 14,
+      "download_count": 15,
       "created_at": "2026-11-03T19:49:26Z",
       "updated_at": "2026-11-03T19:49:32Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5320223,
       "digest": "sha256:579d55990357f216fc9174742960dc5012d658b556b4a12ed935a5cbd9c73a82",
-      "download_count": 35,
+      "download_count": 39,
       "created_at": "2026-11-03T19:49:26Z",
       "updated_at": "2026-11-03T19:49:32Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_linux_amd64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 390,
       "digest": "sha256:b80a4244dbd27725212c155bc14f98ba9813f4b4ad47e3405ed38f7e05cd5e8c",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-03T19:49:26Z",
       "updated_at": "2026-11-03T19:49:27Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.21/checksums.txt"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 301,
       "digest": "sha256:231e961abae3e35e383a9a0dfbeed4062d9712ec881456f8d42237cfa1b830ed",
-      "download_count": 16,
+      "download_count": 17,
       "created_at": "2026-11-03T19:49:26Z",
       "updated_at": "2026-11-03T19:49:27Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.21/checksums.txt.minisig"
