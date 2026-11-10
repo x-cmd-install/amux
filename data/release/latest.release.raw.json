@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 5012213,
       "digest": "sha256:fb332922eb24325da3e329c9bd850705844575a099c71e7fdacfa2cf97773727",
-      "download_count": 15,
+      "download_count": 16,
       "created_at": "2026-11-03T19:49:26Z",
       "updated_at": "2026-11-03T19:49:32Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 5320223,
       "digest": "sha256:579d55990357f216fc9174742960dc5012d658b556b4a12ed935a5cbd9c73a82",
-      "download_count": 41,
+      "download_count": 48,
       "created_at": "2026-11-03T19:49:26Z",
       "updated_at": "2026-11-03T19:49:32Z",
       "browser_download_url": "https://github.com/andyrewlee/amux/releases/download/v0.0.21/amux_0.0.21_linux_amd64.tar.gz"
