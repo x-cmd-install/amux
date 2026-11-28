@@ -47,12 +47,12 @@ Total: **218,312** lines of code across **1412** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 0 | 2 | 1 | 0 | 15 |
-| last60d | 2026-09-28 | 1 | 164 | 2 | 1 | 0 | 181 |
-| 90d | 2026-08-29 | 1 | 172 | 2 | 1 | 0 | 252 |
-| last180d | 2026-05-31 | 2 | 587 | 4 | 1 | 2 | 804 |
-| 360d | 2025-12-02 | 21 | 779 | 4 | 2 | 2 | 1113 |
-| last720d | 2024-12-07 | 21 | 779 | 4 | 2 | 2 | 1129 |
+| 30d | 2026-10-29 | 1 | 0 | 2 | 1 | 0 | 15 |
+| last60d | 2026-09-29 | 1 | 164 | 2 | 1 | 0 | 181 |
+| 90d | 2026-08-30 | 1 | 172 | 2 | 1 | 0 | 252 |
+| last180d | 2026-06-01 | 2 | 587 | 4 | 1 | 2 | 804 |
+| 360d | 2025-12-03 | 21 | 779 | 4 | 2 | 2 | 1113 |
+| last720d | 2024-12-08 | 21 | 779 | 4 | 2 | 2 | 1129 |
 
 ## Release assets
 
@@ -74,4 +74,4 @@ Install metadata for amux lives in the [x-cmd/install](https://github.com/x-cmd/
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:36:40Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:09:27Z._
